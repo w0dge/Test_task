@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Test task from Arcanit</string>
     <string name="plainText">Plain text</string>
+    <string name="user_email"> There should be user_email</string>
+    <string name="user_name">There should be username</string>
+    <string name="user_phone">There should be user_phone</string>
 </resources>
