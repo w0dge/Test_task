@@ -60,5 +60,6 @@
             </androidx.core.widget.NestedScrollView>
 
         </LinearLayout>
+
     </androidx.cardview.widget.CardView>
 </ScrollView>

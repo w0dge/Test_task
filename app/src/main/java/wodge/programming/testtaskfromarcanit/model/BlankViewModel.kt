@@ -1,4 +1,4 @@
-package wodge.programming.testtaskfromarcanit
+package wodge.programming.testtaskfromarcanit.model
 
 import androidx.lifecycle.ViewModel
 
